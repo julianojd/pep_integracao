@@ -38,12 +38,12 @@ Microserviço desenvolvido em Python que permite requisições POST para API de 
 
 1. Clone o repositório para máquina local:
    ```bash
-   git clone git@github.com:julianojd/neuralmed-analista_integracao.git
+   git clone git@github.com:julianojd/pep_integracao.git
    ```
 
 2. Entre no diretório `clinical_data`:
    ```bash
-   cd neuralmed-analista_integracao/clinical_data
+   cd pep_integracao/clinical_data
    ```
 
 3. Construa e execute o microserviço com Docker Compose:

@@ -53,11 +53,11 @@ Os dados estão organizados em três views:
 
 No script, as consultas exemplificam cenários de validação que verificam:
 
-*Chaves primárias não duplicadas*-
+*Chaves primárias não duplicadas*
 - Não deve haver registros duplicados nas chaves primárias.
 
 *Referências cruzadas para profissionais*
-- Verificar se as referências entre as tabelas estão consistentes.*
+- Verificar se as referências entre as tabelas estão consistentes.
 
 *Dado obrigatório*
 - Checagem de campo obrigatório de datas de registro.
